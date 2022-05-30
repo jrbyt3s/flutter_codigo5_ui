@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Flutter IU",
       debugShowCheckedModeBanner: false,
-      home: ParkingPage(),
+      home: SportPage(),
     );
   }
 }

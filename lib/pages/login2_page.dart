@@ -130,7 +130,7 @@ class Login2Page extends StatelessWidget {
                     )),
                   ),
                 ),
-                SizedBox(height: 40),
+                Expanded(child: Container()),
                 SizedBox(
                   width: double.infinity,
                   height: 48.0,
@@ -148,6 +148,7 @@ class Login2Page extends StatelessWidget {
                     onPressed: () {},
                   ),
                 ),
+                SizedBox(height: 150),
               ],
             ),
           ),

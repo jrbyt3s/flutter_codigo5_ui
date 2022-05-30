@@ -2,6 +2,22 @@
 
 A new Flutter project.
 
+# Screenshot:
+LoginPage1:</br>
+<img src="assets/screenshots/1-loginpage1.png" width="30%"></br>
+
+LoginPage1:</br>
+<img src="assets/screenshots/2-loginpage2.png" width="30%"></br>
+
+House Pase:</br>
+<img src="assets/screenshots/3-housepage.png" width="30%"></br>
+
+Parking Page:</br>
+<img src="assets/screenshots/4-parkingpage.png" width="30%"></br>
+
+Sport page:</br>
+<img src="assets/screenshots/5-sportpage.png" width="30%"></br>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
