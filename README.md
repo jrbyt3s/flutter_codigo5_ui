@@ -6,7 +6,7 @@ A new Flutter project.
 LoginPage1:</br>
 <img src="assets/screenshots/1-loginpage1.png" width="30%"></br>
 
-LoginPage1:</br>
+LoginPage2:</br>
 <img src="assets/screenshots/2-loginpage2.png" width="30%"></br>
 
 House Pase:</br>
